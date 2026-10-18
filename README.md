@@ -1,9 +1,10 @@
+
 # Note Summarizer and Quiz Generator
 
 An AI-powered Streamlit application that transforms images of study notes into concise summaries, audio narration, and practice quizzes using Google's Gemini AI.
 
-<img width="1852" height="970" alt="image" src="https://github.com/user-attachments/assets/966db9f1-5880-4901-b068-e39091d40358" />
-
+<img width="1852" height="970" alt="image" src="https://github.com/user-attachments/assets/966db9f1-5880-4901-b068-e39091d40358" /><br>
+<img width="1760" height="918" alt="Screenshot_20261018_082338" src="https://github.com/user-attachments/assets/ff9d0887-4bb5-414f-8cf5-76596b82db7c" />
 
 ## Features
 
