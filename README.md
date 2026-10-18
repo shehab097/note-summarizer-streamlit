@@ -2,6 +2,9 @@
 
 An AI-powered Streamlit application that transforms images of study notes into concise summaries, audio narration, and practice quizzes using Google's Gemini AI.
 
+<img width="1852" height="970" alt="image" src="https://github.com/user-attachments/assets/966db9f1-5880-4901-b068-e39091d40358" />
+
+
 ## Features
 
 - **Image Upload:** Upload up to 3 images of study notes in JPG, JPEG, or PNG format.
